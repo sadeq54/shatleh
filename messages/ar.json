@@ -298,6 +298,7 @@
     "noRequests": "لم يتم العثور على طلبات خدمة",
     "requestService": "طلب خدمة",
     "goToLogin": "الذهاب إلى تسجيل الدخول",
+    "requestNow": "أطلب الآن",
     "errors": {
       "fetchFailed": "فشل في جلب طلبات الخدمة"
     },

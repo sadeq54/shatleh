@@ -299,6 +299,7 @@
     "requestService": "طلب خدمة",
     "goToLogin": "الذهاب إلى تسجيل الدخول",
     "requestNow": "أطلب الآن",
+    "cancelSuccess": "تم إلغاء الطلب بنجاح",
     "errors": {
       "fetchFailed": "فشل في جلب طلبات الخدمة"
     },

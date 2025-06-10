@@ -299,6 +299,7 @@
     "requestService": "Request a Service",
     "goToLogin": "Go to Login",
     "requestNow": "Request Now",
+    "cancelSuccess": "Request cancelled successfully",
     "errors": {
       "fetchFailed": "Failed to fetch service requests"
     },

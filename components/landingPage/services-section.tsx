@@ -116,7 +116,7 @@ export default function ServicesSection({ currentLocale }: ServicesSectionProps)
               whileHover={{ scale: 1.05, boxShadow: '0 10px 20px rgba(0,0,0,0.2)' }}
             >
               <Image
-                src={service.image ? `${process.env.NEXT_PUBLIC_API_URL}/${service.image}` : '/placeholder.svg'}
+                src={service.image ? `${process.env.NEXT_PUBLIC_API_URL}${service.image}` : '/placeholder.svg'}
                 alt={currentLocale === 'ar' ? service.name_ar : service.name_en}
                 width={400}
                 height={300}
